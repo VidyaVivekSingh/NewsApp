@@ -1,0 +1,136 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "category": "Business"
+    },
+    {
+      "id": "2",
+      "category": "Entertainment"
+    },
+    {
+      "id": "3",
+      "category": "General"
+    },
+    {
+      "id": "4",
+      "category": "Health"
+    },
+    {
+      "id": "5",
+      "category": "Science"
+    },
+    {
+      "id": "6",
+      "category": "Sports"
+    },
+    {
+      "id": "7",
+      "category": "Technology"
+    }
+  ],
+  "country": [
+    {
+      "id": "1",
+      "name": "United Arab Emirates",
+      "code": "ae"
+    },
+    {
+      "id": "2",
+      "name": "Argentina",
+      "code": "ar"
+    },
+    {
+      "id": "3",
+      "name": "Austria",
+      "code": "at"
+    },
+    {
+      "id": "4",
+      "name": "Australia",
+      "code": "au"
+    },
+    {
+      "id": "5",
+      "name": "Belgium",
+      "code": "be"
+    },
+    {
+      "id": "6",
+      "name": "Bulgaria",
+      "code": "bg"
+    },
+    {
+      "id": "7",
+      "name": "Brazil",
+      "code": "br"
+    },
+    {
+      "id": "8",
+      "name": "Canada",
+      "code": "ca"
+    },
+    {
+      "id": "9",
+      "name": "Switzerland",
+      "code": "ch"
+    },
+    {
+      "id": "10",
+      "name": "China",
+      "code": "cn"
+    },
+    {
+      "id": "11",
+      "name": "Colombia",
+      "code": "co"
+    },
+    {
+      "id": "12",
+      "name": "Cuba",
+      "code": "cu"
+    },
+    {
+      "id": "13",
+      "name": "Czech Republic",
+      "code": "cz"
+    },
+    {
+      "id": "14",
+      "name": "Germany",
+      "code": "de"
+    },
+    {
+      "id": "15",
+      "name": "Egypt",
+      "code": "eg"
+    },
+    {
+      "id": "16",
+      "name": "France",
+      "code": "fr"
+    },
+    {
+      "id": "17",
+      "name": "United Kingdom",
+      "code": "gb"
+    },
+    {
+      "id": "18",
+      "name": "Greece",
+      "code": "gr"
+    },
+    {
+      "id": "19",
+      "name": "Hong Kong, SAR China",
+      "code": "hk"
+    },
+    {
+      "id": "20",
+      "name": "Hungary",
+      "code": "hu"
+    }
+  ],
+  "sources": [],
+  "apiKey": "f897d27f728a42199bceac8f047699e3"
+}
